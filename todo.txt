@@ -1,0 +1,6 @@
+- [x] infra/docker/php/Dockerfile (Japanese font installation)
+- [x] src/composer.json (mPDF library addition)
+- [x] src/config/mpdf.php (Japanese font configuration)
+- [x] src/app/Providers/PdfServiceProvider.php (Service registration)
+- [x] src/app/Services/PdfService.php (PDF generation with Japanese support)
+- [x] src/config/app.php (Provider registration)

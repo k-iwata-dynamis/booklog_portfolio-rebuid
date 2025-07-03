@@ -1,0 +1,1 @@
+<img src="{{ asset('images/ec332574-8ce9-40fc-859f-4798c93c5680.png') }}" alt="Booklogg Logo" class="w-32 h-auto">
